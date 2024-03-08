@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joselu Front-end developer</h1>
 <h3 align="center">Web developer. Passionate about new technologies. Seeking an opportunity to grow and learn in this fascinating world of development.</h3>
 
-- 🌱 I’m currently learning **Node.js, Express**
+- 🌱 Actualmente estoy aprendiendo **Node.js, Express**
 
 - 👨‍💻 Todos mis proyectos en [https://joselu-portfolio.vercel.app/](https://joselu-portfolio.vercel.app/)
 
