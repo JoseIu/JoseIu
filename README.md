@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joselu Front-end developer</h1>
-<h3 align="center">Web developer. Passionate about new technologies. Seeking an opportunity to grow and learn in this fascinating world of development.</h3>
+<h1 align="center">Hola 👋, Soy Joselu Front-end developer</h1>
+<h3 align="center">Desarrollador web frontend, experiencia en HTML, CSS, JavaScript,TypeScript, React y Angular</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Node.js, Express**
 
