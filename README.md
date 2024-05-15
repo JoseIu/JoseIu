@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador web frontend, experiencia en HTML, CSS, JavaScript,TypeScript, React y Angular</p>
+<p align="left">Desarrollador web front-end, experiencia en HTML, CSS, JavaScript,TypeScript, React y Angular</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Fron- End</h2>
+<h2 align="left">Front- End</h2>
 
 ###
 
