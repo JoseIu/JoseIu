@@ -15,7 +15,9 @@ Personalmente disfruto de aprender nuevas tecnologías de manera autodidacta y m
 
 <p align="left">🌱 Actualmente estoy aprendiendo Node.js, Express<br><br>👨‍💻 Todos mis proyectos en https://joselu-portfolio.vercel.app/<br><br>📫 Contacto joseluissgz97@gmail.com</p>
 ###
+
 <h2 align="left">Front-End</h2>
+
 ###
 
 <div align="left">
