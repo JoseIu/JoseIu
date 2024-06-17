@@ -1,8 +1,8 @@
-<h1 align="left">Hola 👋, Soy Joselu Front-end developer</h1>
+<h1 align="left">Hola 👋, Soy Joselu FULL STACK MERN</h1>
 
 ###
 
-<p align="left">Desarrollador web front-end, experiencia en HTML, CSS, JavaScript,TypeScript, React y Angular</p>
+<p align="left">Desarrollador web FULL STACK MERN, experiencia en HTML, CSS, JavaScript,TypeScript, React, Node.js, Express y MongoDB</p>
 
 ###
 
@@ -16,7 +16,8 @@
 
 ###
 
-<h2 align="left">Front- End</h2>
+<h2 align="left">Soy Joselu, programador full stack MERN con una sólida experiencia en React, JavaScript, TypeScript y Node.js.
+Personalmente disfruto de aprender nuevas tecnologías de manera autodidacta y mi pasión por el mundo del desarrollo web me mantiene motivado para afrontar nuevos retos./h2>
 
 ###
 
