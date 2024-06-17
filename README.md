@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Desarrollador web FULL STACK MERN, experiencia en HTML, CSS, JavaScript,TypeScript, React, Node.js, Express y MongoDB</p>
+<p align="left">Soy Joselu, programador full stack MERN con una sólida experiencia en React, JavaScript, TypeScript y Node.js.
+Personalmente disfruto de aprender nuevas tecnologías de manera autodidacta y mi pasión por el mundo del desarrollo web me mantiene motivado para afrontar nuevos reto</p>
 
 ###
 
@@ -14,10 +15,6 @@
 
 <p align="left">🌱 Actualmente estoy aprendiendo Node.js, Express<br><br>👨‍💻 Todos mis proyectos en https://joselu-portfolio.vercel.app/<br><br>📫 Contacto joseluissgz97@gmail.com</p>
 
-###
-
-<h2 align="left">Soy Joselu, programador full stack MERN con una sólida experiencia en React, JavaScript, TypeScript y Node.js.
-Personalmente disfruto de aprender nuevas tecnologías de manera autodidacta y mi pasión por el mundo del desarrollo web me mantiene motivado para afrontar nuevos retos./h2>
 
 ###
 
