@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Front- End</h2>
+<h2 align="left">Front-End</h2>
 
 ###
 
