@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador web por el lado del cliente con experiencia en HTML, CSS, JavaScript,TypeScript, React , Next.js y Astro</p>
+<p align="left">Desarrollador web por el lado del cliente con experiencia en HTML, CSS, JavaScript, TypeScript, React, Next.js y Astro</p>
 
 ###
 
