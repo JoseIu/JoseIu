@@ -13,8 +13,16 @@
 ###
 
 <br clear="both">
+<p align="left">
+  👨‍💻 Portfolio: <a href="https://joselu-portfolio.vercel.app/" target="_blank">https://joselu-portfolio.vercel.app/</a><br><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/j0selu/" target="_blank">Joselu</a>
+  
+  <br/>
+  <br/>
+  
+  📫 Email: joseluissgz97@gmail.com<br><br>
+</p>
 
-<p align="left">👨‍💻Portfolio: https://joselu-portfolio.vercel.app/<br><br>📫 Email: joseluissgz97@gmail.com</p>
 
 ###
 
