@@ -1,6 +1,6 @@
 <h1 align="left">Hola 👋, Soy Joselu</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7891F&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7891F&width=435&lines=Front-end+Developer)](https://joselu-portfolio.vercel.app/)
 
 ###
 
